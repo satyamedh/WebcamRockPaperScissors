@@ -10,7 +10,7 @@
 - TODO
 
 ## TODO
-- [ ] Get more data for better training tomorrow morning
+- [ ] Get more data for better training tomorrow morning (Future me note: Damn I need a lot more data)
 - [ ] Add usage instructions
 - [ ] (Optional) Add a GUI (and I dont think I'll do this, dont count on me. forks are open)
 - [ ] Improve the model
